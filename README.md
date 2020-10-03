@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-###Thanks you for participated
+### Thanks you for participated
 
 
 -->
